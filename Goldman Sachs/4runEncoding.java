@@ -1,4 +1,4 @@
-/* https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1/ */
+/* https://practice.geeksforgeeks.org/problems/run-length-encoding/1/ */
 
 class runEncoding {
     String encode(String str)
